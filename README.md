@@ -1,0 +1,1 @@
+To design and implement an application with a graphical user interface to manage a library of songs. The songs are to be sorted in alphabetical order and uniquely identified by a combination of name and artist (case insensitive). This application uses a text file to store all data(list of songs) and displays a single window with three functions.
